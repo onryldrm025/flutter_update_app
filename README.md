@@ -1,6 +1,7 @@
 # flutter_update_app
 
-A new Flutter project.
+update application when new version is available
+only Android
 
 ## Getting Started
 <p float="left">
