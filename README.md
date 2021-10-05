@@ -3,7 +3,6 @@
 update application when new version is available
 only Android
 
-## Getting Started
 <p float="left">
 <img src="https://user-images.githubusercontent.com/35971592/136009236-a554d0fb-87f0-4183-981b-ccacb87904de.jpg" width="300" height="500" />
 <img src="https://user-images.githubusercontent.com/35971592/136009242-42e94d9b-586a-47e9-be0f-c101dbf72bb4.jpg" width="300" height="500" />
